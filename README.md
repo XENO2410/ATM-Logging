@@ -25,7 +25,7 @@ The modified application will:
 ### Testing the code and supply the following inputs: Deposit: $50 Withdraw: $200
 ![image](https://github.com/user-attachments/assets/bb2ba540-9864-455e-a230-d6e764714ac7)
 
-###  the code and supply the following inputs: Deposit: $50 Withdraw: $10
+### Testing the code and supply the following inputs: Deposit: $50 Withdraw: $10
 ![image](https://github.com/user-attachments/assets/289e79a2-ec3f-43be-8ac9-d2b7ac0a4fb8)
 
 
